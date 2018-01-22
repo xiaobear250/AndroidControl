@@ -52,7 +52,7 @@ resource.root=请把resources目录的路径复制到这里
 如我的电脑：
 
 ```
-resource.root=/Users/harry/Documents/AndroidControl_Release
+resource.root=/Users/harry/Documents/AndroidControl_Release/resources
 ```
 
 **Step3:**
